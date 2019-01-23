@@ -3,8 +3,7 @@
 html, body {
     margin: 0;
     padding: 0;
-    background-color: #b3d9ff;
-    /* background-image: url("Images/Numbers.png"); */
+    background-image: url("Images/Numbers.png");
     background-repeat: repeat;
     background-position: center; 
     display: flex;
