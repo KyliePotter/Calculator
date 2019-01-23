@@ -40,6 +40,12 @@ html, body {
     position: relative;
 }
 
+#keys-equal {
+    background-color: #fe886a;
+    grid-column: 4;
+    grid-row: 2 / span 4;
+}
+
 button {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 175%;
