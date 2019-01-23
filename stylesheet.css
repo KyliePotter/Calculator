@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #b3d9ff;
+    /* background-image: url("Images/Numbers.png"); */
+    background-repeat: repeat;
+    background-position: center; 
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    
+}
+
+.calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+
+}
+
+.screen {
+    text-align: right;
+    display: block;
+    position: relative;
+}
+
+.keys {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    position: absolute;
+}
+
