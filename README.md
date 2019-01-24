@@ -4,4 +4,4 @@ A calculator written in HTML, CSS and Javascript
 ## Logs
 Last Updated: 24th January 2018
 
-<img src="Images/calculator.png" alt="Calculator">
+<img src="Images/Calculator.png" alt="Calculator">
